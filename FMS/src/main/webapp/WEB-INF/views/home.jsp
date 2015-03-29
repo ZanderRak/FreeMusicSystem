@@ -2,13 +2,16 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+<meta name="description" content="Free music for everyone!">
+<meta name="author" content="Zander Rak, Acid Serg">
+<meta name="keywords" content="Music, Free, Downloads, Share, Band">
+	<title>FMS</title>
 </head>
 <body>
 <h1>
-	Hello world!  
+	
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+
 </body>
 </html>
